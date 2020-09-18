@@ -829,5 +829,3 @@ var zihom = [["a",["婀","猗","痾","阿","亜","亞","唖","椏","襾","錏","
 ["zyutu",["朮","術","述","恤","戌"]]]
 
 module.exports = {zihom}
-
-module.exports = {zihom}
